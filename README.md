@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Acheron "MX plate slots" is the AcheronProject's library for plate cutouts that can be used to design and produce FR4 plates for MX-style switches.These foorptins were independently developed using the MX switch datasheet.
+Acheron "MX plate slots" is the AcheronProject's library for plate cutouts that can be used to design and produce FR4 plates for MX-style switches.These footprints were independently developed using the MX switch datasheet.
 
 ## How to use
 
